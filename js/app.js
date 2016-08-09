@@ -27,7 +27,7 @@ $(document).ready(function(){
 
 	newGame()
 	
-	$("a.new").click(function() {
+	$(".new").click(function() {
   		newGame();
   	})
 
